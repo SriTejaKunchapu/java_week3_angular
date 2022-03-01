@@ -1,0 +1,6 @@
+com\lti\ProducerApplication.class
+com\lti\repository\CustomerRepository.class
+com\lti\controllers\ProducerController.class
+com\lti\model\Customer.class
+com\lti\exception\ResourceNotFoundException.class
+com\lti\Myswaggerconfig.class

@@ -1,0 +1,6 @@
+projectKey=com.lti:Producer
+serverUrl=http://localhost:9000
+serverVersion=9.2.1.49989
+dashboardUrl=http://localhost:9000/dashboard?id=com.lti%3AProducer
+ceTaskId=AX2kZqvEm7h_gjw-RnMC
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX2kZqvEm7h_gjw-RnMC
