@@ -1,0 +1,34 @@
+install node.js
+
+> npm install -g typescript
+
+---------------------------app1.ts
+console.log("message");
+
+>tsc app1.ts    => to compile typescript file
+
+>node app1.js   => to run js file
+
+---------------------------app2.ts
+var message:string="Hello World"
+console.log(message)
+
+
+---------------------------app2.ts
+classGreeting{
+greet():void{
+      console.log("Hello World!!!")
+}
+}
+var obj =newGreeting();
+obj.greet();
+-----------------------------app3.ts
+var name:string="John";
+var score1:number =50;
+var score2:number =42.50
+var sum = score1 + score2 
+console.log("name"+name)
+console.log("first score: "+score1)
+console.log("second score: "+score2)
+console.log("sum of the scores: "+sum)
+
