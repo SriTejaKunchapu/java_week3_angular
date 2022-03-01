@@ -1,0 +1,10 @@
+>ng new hello-world
+
+>cd hello-world
+
+>hello-world\>npm install
+
+>ng serve
+
+open browser http://localhost:4200
+

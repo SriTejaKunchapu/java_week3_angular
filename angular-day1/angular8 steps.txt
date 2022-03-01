@@ -1,0 +1,20 @@
+ng --version
+
+npm uninstall -g angular-cli
+
+
+npm cache verify  
+
+npm cache clean  
+
+
+npm install -g @angular/cli@latest  
+
+to update packages: =>
+
+ng update @angular/core 
+
+ Angular 8 is used to create dynamic web applications. 
+Time-to-time (eg. news update webs applications)
+Location-to-location (eg. Weather-report web applications)
+User-to-user (eg. Gmail, Facebook type applications)
